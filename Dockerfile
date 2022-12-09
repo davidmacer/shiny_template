@@ -1,4 +1,4 @@
-FROM rocker/shiny
+FROM rocker/shiny-verse
 COPY . /workdir
 
 COPY . ./app
