@@ -1,13 +1,13 @@
 Package: templater
-Title: Template for R projects
+Title: Template for Shiny projects
 Authors@R: c(
-    person(given = "Ciencia de Datos",
-           family = "GECI",
+    person(given = "Nepo",
+           family = "Rojas",
            role = c("aut", "cre", "cph"),
-           email = "ciencia.datos@islas.org.mx"
+           email = "nepo.rojas@gmail.com"
            ))
 Config/testthat/edition: 3
-Description: Plantilla de Ciencia de Datos en GECI para proyectos en R
+Description: Plantilla de NIES para proyectos en Shiny
 Encoding: UTF-8
 Imports:
     R6,
